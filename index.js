@@ -30,5 +30,5 @@ return [...kittens,"Broom"];
 }
 
 function prependKitten(name){
-  
+  return []
 }
